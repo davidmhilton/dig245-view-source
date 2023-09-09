@@ -1,0 +1,14 @@
+.top{
+}
+
+.bottom{
+    text-align: right;
+}
+
+.body{
+   text-align: center; 
+   margin: 200px;
+}
+pre{
+    margin:0;
+}
